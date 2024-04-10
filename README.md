@@ -1,6 +1,6 @@
 # BMI Calculator 🖩
 
-## Introduction ℹ️
+## Introduction 🌟ℹ️
 
 This project is a simple Body Mass Index (BMI) calculator implemented using HTML, CSS, and JavaScript. It allows users to input their age, height, weight, and gender, and calculates their BMI based on the provided information. The BMI is then categorized into different health status categories such as Underweight, Healthy, Overweight, Obese, or Extremely obese.
 
