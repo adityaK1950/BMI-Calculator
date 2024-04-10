@@ -1,6 +1,6 @@
 # BMI Calculator 🖩
 
-## Introduction 🌟ℹ️
+## Introduction ℹ️
 
 This project is a simple Body Mass Index (BMI) calculator implemented using HTML, CSS, and JavaScript. It allows users to input their age, height, weight, and gender, and calculates their BMI based on the provided information. The BMI is then categorized into different health status categories such as Underweight, Healthy, Overweight, Obese, or Extremely obese.
 
@@ -42,7 +42,7 @@ Alternatively, you can download the [ZIP file](https://github.com/adityaK1950/BM
 3. Open the index.html file in your preferred web browser.
 
 
-## Instructions
+## Instructions 🌟
 
 To use the BMI calculator, simply open the `index.html` file in your web browser. Enter your age, height, weight, and select your gender (male or female), then click the "Submit" button. The BMI result will be displayed along with the corresponding health status category.
 
