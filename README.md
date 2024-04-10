@@ -57,7 +57,7 @@ You can customize the BMI calculator by modifying the following aspects:
 3. **Additional Features**: Extend the functionality of the calculator by adding new features or enhancements. For example, you could implement support for different unit systems (e.g., metric or imperial), add validation for input fields, or include a feature to save BMI results for multiple users.
 
 
-## Contributing
+## Contributing 🤝
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or create a pull request.
 
