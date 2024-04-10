@@ -19,7 +19,7 @@ This project is a simple Body Mass Index (BMI) calculator implemented using HTML
 - CSS
 - JavaScript
 
-## Features 
+## Features <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"></picture>
 
 - Calculate BMI based on age, height, weight, and gender input.
 - Display the BMI result along with the corresponding health status category.
