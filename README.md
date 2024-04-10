@@ -26,7 +26,7 @@ This project is a simple Body Mass Index (BMI) calculator implemented using HTML
 - Support for both male and female genders.
 - User-friendly interface with responsive design.
 
-### Installation
+##  <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32"></picture> Installation
 
 1. Clone the repository to your local machine using Git:
 
