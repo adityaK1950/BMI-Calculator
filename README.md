@@ -46,7 +46,7 @@ Alternatively, you can download the [ZIP file](https://github.com/adityaK1950/BM
 
 To use the BMI calculator, simply open the `index.html` file in your web browser. Enter your age, height, weight, and select your gender (male or female), then click the "Submit" button. The BMI result will be displayed along with the corresponding health status category.
 
-## Customization
+## Customization 🔧
 
 You can customize the BMI calculator by modifying the following aspects:
 
